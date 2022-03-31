@@ -1,0 +1,159 @@
+#titleblock{
+
+    background-image: url(titlepic.jpg);
+    background-size: auto 120%;
+    height: 210px;
+
+}
+
+
+#logo{
+    background-color: gold;
+    background-image: url(logo.jpg);
+    background-size: auto 100%;
+    margin-left: 40px ;
+    margin-right: 1080px;
+    display: grid;
+    vertical-align: center;
+	height: 190px;
+}
+
+#title_{
+    
+    margin-top: -90px ;
+    margin-left: 250px ;
+    display: grid;
+    vertical-align: center;
+	
+    opacity: 1;
+    
+
+}
+
+
+
+#backGround{
+    background-color: lightpink;
+    height: 1530px;
+    margin-top: 90px;
+}
+
+
+
+
+
+#E51{
+    margin-top: -1300px;
+    background-color: royalblue; 
+    height: 400px;
+    margin-left: 680px;
+    margin-right: 270px;
+    background-image: url(Hein1.jpg);
+    background-size: 105%;
+    
+}
+
+#E52{
+    margin-top: 90px;
+    background-color: royalblue; 
+    height: 440px;
+    margin-left: 680px;
+    margin-right: 270px;
+    background-image: url(Hein2.jpg);
+    background-size: 105%;
+    
+}
+
+#Hein_{
+   
+    height: 50px;
+    margin-top: -540px;
+    margin-left: 680px;
+    margin-right:270px ;
+}
+
+#HeinLink{
+    margin-top: -25px;
+    margin-left: 680px;
+    margin-right:270px ;
+}
+
+
+
+
+#text_{
+    margin-left: 200px;
+    margin-top: -110px;
+    
+}
+
+#lineWork{
+    
+    height: 320px;
+   
+    background-image: url(background.jpg);
+    position: -webkit-sticky;
+    position: sticky;
+    top: 200px;
+}
+
+
+
+  
+
+  #text__{
+    margin-left: 200px;
+    color: saddlebrown;
+    margin-right: 200px;
+   
+   
+    
+    
+}
+
+#bottomBlockBlock{
+   
+    background-color: rgb(255, 247, 173); 
+    height: 120px;
+    
+}
+
+#block0{
+    background-color: rgb(37, 28, 21); 
+    height: 5px;
+    margin-left: 0px;
+    margin-top: 0px; 
+
+}
+
+
+#block1{
+    background-color: #f67280; 
+    height: 30px;
+    margin-left: 50px;
+    margin-top: 50px; 
+
+}
+
+#block2{
+    background-color:  lightpink; 
+    height: 30px;
+    margin-left: 200px;
+    margin-top: -30px;
+}
+
+#block3{
+    background-color: #ffd5c2; 
+    height: 30px;
+    margin-left: 350px;
+    margin-top: -30px;
+}
+
+#block4{
+    background-color: whitesmoke; 
+    height: 30px;
+    margin-left: 1000px;
+    margin-top: -30px;
+}
+
+

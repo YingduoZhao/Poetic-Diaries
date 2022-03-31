@@ -1,0 +1,220 @@
+
+#Austria{
+
+    
+    height: 400px;
+    background-image: url(Austria.jpg);
+    background-attachment: fixed;
+   
+
+}
+
+
+
+
+#boxYellow {
+	background: rgb(255, 247, 173);
+
+    margin: 0px ;
+    display: grid;
+    vertical-align: top;
+	height: 150px;  
+    
+}
+
+h1{
+ /*text-align: center;*/
+/* width: 25%;*/
+position: absolute;
+left: 150px;
+ color: black;
+font-size: 30px ;
+font-family: arial;
+}
+
+/*h2{
+    background-color: rgb(58, 27, 1);
+    margin-top: 120px;
+}*/
+
+
+#sound{
+    position: absolute;
+    left: 150px;
+    top: 10%;
+    color: black;
+    font-size: 5px ;
+    font-family: arial; 
+}
+
+p{
+    text-align: right;
+    color: black;
+    font-size: 5px ;
+    font-family: arial; 
+}
+     
+
+
+#wallPapper{
+    background-image: url(background.jpg);
+    margin-top: -50px ;
+    height: 1000px;
+
+}
+
+
+
+
+
+
+#boxPink{
+    background: rgb(255, 247, 173);
+    border-radius: 25px;
+    padding: 30px;
+    margin-top:-1050px;
+    margin-left: 70px;
+    margin-right: 70px;
+    display: grid;
+    vertical-align: center;
+	height: 170px;  
+    box-shadow: 10px 10px 8px #888888;
+    opacity: 0.8;
+}
+
+#boxPink2{
+    background: rgb(255, 247, 173);
+    border-radius: 25px;
+    padding: 30px;
+    margin-top:90px;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-bottom:90px;
+    display: grid;
+    vertical-align: center;
+	height: 550px; 
+    box-shadow: 10px 10px 8px #888888; 
+    opacity: 0.8;
+}
+
+
+ #pre{
+        width:1000px;
+        font-size: 20px ;
+        text-align: left;
+        margin-left:30px;
+    }
+
+
+
+img{
+   position: fixed;
+   max-width: 98.75%;
+}
+
+
+#openButten{
+
+    background: lightpink; 
+    border-radius: 25px;
+    padding: 0px;
+    margin-top:50px;
+    margin-left: 400px ;
+    margin-right: 400px;
+    display: grid;
+    vertical-align: center;
+	height: 60px;
+
+}
+
+
+a{
+    margin-top:20px;
+    font-size: 20px ;
+    text-align: center;
+
+
+}
+
+
+#logo{
+    background: red;
+    background-image: url(logo.jpg);
+    background-size: 100% ;
+    width: 90px;
+	height: 90px;
+    padding: 5px;
+	margin-top: 20px;
+	left: 5%;
+	margin-left: -50px;
+    position: relative; 
+}
+
+#random_{
+text-align: right;
+}
+
+
+
+#boxPink3{
+    
+    background-image: url(exp.png);
+    border-radius: 25px;
+    padding: 30px;
+    margin-top:20px;
+    margin-left: -30px;
+    margin-right: -30px;
+    display: grid;
+    vertical-align: center;
+	height: 130px; 
+    box-shadow: 10px 10px 8px #888888; 
+    opacity: 1;
+}
+
+#scroll-container {
+    overflow: hidden;
+    background-color: rgb(37, 28, 21);
+  }
+  
+  #scroll-text {
+    text-align: right;
+    color: blanchedalmond;
+    font-family: Trebuchet MS, sans-serif;
+  
+    /* animation properties */
+    -moz-transform: translateX(-100%);
+    -webkit-transform: translateX(-100%);
+    transform: translateX(-100%);
+    
+    -moz-animation: my-animation 15s linear infinite;
+    -webkit-animation: my-animation 15s linear infinite;
+    animation: my-animation 15s linear infinite;
+  }
+  
+  /* for Firefox */
+  @-moz-keyframes my-animation {
+    from { -moz-transform: translateX(100%); }
+    to { -moz-transform: translateX(-100%); }
+  }
+  
+  /* for Chrome */
+  @-webkit-keyframes my-animation {
+    from { -webkit-transform: translateX(100%); }
+    to { -webkit-transform: translateX(-100%); }
+  }
+  
+  @keyframes my-animation {
+    from {
+      -moz-transform: translateX(-100%);
+      -webkit-transform: translateX(-100%);
+      transform: translateX(-100%);
+    }
+    to {
+      -moz-transform: translateX(100%);
+      -webkit-transform: translateX(100%);
+      transform: translateX(100%);
+    }
+  }
+
+
+  
